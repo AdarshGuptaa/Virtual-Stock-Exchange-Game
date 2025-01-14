@@ -1,0 +1,19 @@
+🌟 Apps Script Macro for a Virtual Stock Exchange Game @ Infotsav, IIIT Gwalior 🌟
+
+I created an Apps Script-based macro using JavaScript to manage a virtual stock exchange game for Infotsav, IIIT Gwalior.
+This project became the backbone of the entire experience, streamlining much of the hassle associated with managing a team's "purse" and "stock portfolio" through numerous transactions.
+
+🎮 The Game Setup: The game featured 10 teams participating in a stock trading simulation. Each team started with an array of 25 stocks they could buy, trade, and profit (or lose!) over time.
+We aimed to recreate a nostalgic pre-internet stock market experience, introducing:
+
+  📝 Slip-based transactions
+
+  🗣️ A word-of-mouth based system to spread news and rumors
+
+While the simulation tried to replicate the 1990s, running it with a team of just 10 organizers required some digital support. After long, hard, and iterative days,
+I devised a solution: managing the entire simulation via a spreadsheet software powered by a macro-based system using Google Sheets and Google Apps Script.
+
+⏱️ Development Timeline: The project took just 2 days to develop and became remarkably efficient by the end of the process.
+
+The game was a huge success, with participants and organizers alike enjoying the seamless execution.
+Despite some minor flaws in the structuring of the game itself, it was a fantastic learning experience for me and my teammates.
